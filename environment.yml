@@ -6,6 +6,3 @@ dependencies:
   - xtensor=0.23.0
   - xtensor-blas=0.19.0
   - notebook
-  - pip
-  - pip:
-    - jupytergraffiti
